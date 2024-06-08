@@ -15,9 +15,9 @@ MonoBehaviour:
   title: egg
   author: tandyCake, Red Penguin, eXish
   description: "joke module.\r\n\r\nHTML: https://ktane.timwi.de/HTML/egg.html\r\nPDF:
-    https://ktane.timwi.de/PDF/egg.pdf\r\n\r\negg (bigegg) vegg3\nModule and Concept
+    https://ktane.timwi.de/PDF/egg.pdf\r\n\r\negg (bigegg) vegg4\nModule and Concept
     by tandyCake.\r\nImplemented by Red Penguin.\r\nMaintained by eXish.\r\nTwitch
     Plays supported"
-  version: egg3
+  version: egg4
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 2cdb0f89571666749b4f34d4a21002dd, type: 3}
